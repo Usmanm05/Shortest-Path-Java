@@ -1,0 +1,8 @@
+*.class *.iml .idea/ out/ target/ build/ .DS_Store EOF
+*.class
+*.iml
+.idea/
+out/
+target/
+build/
+.DS_Store
